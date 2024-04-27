@@ -14,7 +14,7 @@ The repository is organized by categories of certificates, with each category in
 The repository is organized by categories of certificates, with each category in its own folder:
 
 - **[Statistics]**: 
-- **[A/B testing]**:
+- **[ A/B testing here https://github.com/GloryMurega/Certificates/tree/A/B-testing]**:
 
 ## How to Contribute
 
