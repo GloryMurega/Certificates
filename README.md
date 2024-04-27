@@ -13,8 +13,10 @@ Welcome to my Certificates Repository! This repository showcases my academic and
 The repository is organized by categories of certificates, with each category in its own folder:
 The repository is organized by categories of certificates, with each category in its own folder:
 
-- **Statistics[Download here](https://github.com/GloryMurega/Certificates/tree/Statistics)**: The study and application of experimental design, analysis of variance (ANOVA), two-population comparisons, and regression analysis
-- **A/B testing [Download here](https://github.com/GloryMurega/Certificates/tree/A/B-testing)**: Experimental design topics covered building an A/B test, running the test, analyzing the data, and making decisions based on the results of the test.
+- **Statistics[Download here](https://github.com/GloryMurega/Certificates/tree/Statistics)**:
+ - The study and application of experimental design, analysis of variance (ANOVA), two-population comparisons, and regression analysis
+- **A/B testing [Download here](https://github.com/GloryMurega/Certificates/tree/A/B-testing)**:
+ - Experimental design topics covered building an A/B test, running the test, analyzing the data, and making decisions based on the results of the test.
 
 ## How to Contribute
 
