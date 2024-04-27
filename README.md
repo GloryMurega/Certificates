@@ -13,8 +13,8 @@ Welcome to my Certificates Repository! This repository showcases my academic and
 The repository is organized by categories of certificates, with each category in its own folder:
 The repository is organized by categories of certificates, with each category in its own folder:
 
-- **[Statistics]**: 
-- **[A/B testing]**:
+- **Statistics here https://github.com/GloryMurega/Certificates/tree/Statistics**: 
+- **[A/B testing here https://github.com/GloryMurega/Certificates/tree/A/Btesting]**:
 
 ## How to Contribute
 
